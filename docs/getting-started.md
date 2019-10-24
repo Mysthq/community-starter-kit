@@ -34,5 +34,4 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+Good job for completing your task!
