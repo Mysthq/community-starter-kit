@@ -1,10 +1,8 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+A bot that is writing text.
 
 ## What it does
-
-FEATURES PLACEHOLDER
+It tells beautiful words to users that complete their tasks.
 
 ## Getting started
 
